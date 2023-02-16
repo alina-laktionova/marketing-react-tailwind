@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marketing-react-tailwind/static/css/main.a86ce3e9.css",
+    "main.js": "/marketing-react-tailwind/static/js/main.303a14c4.js",
+    "index.html": "/marketing-react-tailwind/index.html",
+    "main.a86ce3e9.css.map": "/marketing-react-tailwind/static/css/main.a86ce3e9.css.map",
+    "main.303a14c4.js.map": "/marketing-react-tailwind/static/js/main.303a14c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86ce3e9.css",
+    "static/js/main.303a14c4.js"
+  ]
+}
