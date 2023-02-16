@@ -4,25 +4,29 @@ const WhatWeDo = () => {
   const items = [
     {
       title: "Web Development",
-      image: "images/web.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/web_fmlxj0.png",
       description:
         "Web development is the work involved in developing a website for the Internet or an intranet.",
     },
     {
       title: "Mobile Development",
-      image: "images/mobile.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534465/Marketing%20course%20project/mobile_krotiz.png",
       description:
         "Mobile development is the work involved in developing a mobile application for mobile devices such as smartphones, tablets, and feature phones.",
     },
     {
       title: "Digital Marketing",
-      image: "images/digital-marketing.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534465/Marketing%20course%20project/digital-marketing_ynzurp.png",
       description:
         "Digital marketing is the work involved in developing a digital marketing strategy and developing a digital marketing plan.",
     },
     {
       title: "Graphic Design",
-      image: "images/design.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/design_snac91.png",
       description:
         "Graphic design is the work involved in developing a digital marketing strategy and developing a digital marketing plan.",
     },

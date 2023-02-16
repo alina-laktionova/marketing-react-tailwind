@@ -6,25 +6,29 @@ const Marketing = (props) => {
       title: "CONTENT MARKETING",
       description:
         "Content marketing is a form of marketing focused on creating, publishing, and distributing content for a targeted audience online.",
-      image: "images/content.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/content_suxd1g.png",
     },
     {
       title: "INBOUND MARKETING",
       description:
         "Inbound is far and away the most effective B2B marketing strategy because it leverages the strengths of the majority of the other nine strategies to attract, engage, and delight customers.",
-      image: "images/inbound-marketing.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534465/Marketing%20course%20project/inbound-marketing_rd67cp.png",
     },
     {
       title: "SOCIAL MEDIA",
       description:
         "Social media marketing focuses on providing users with content they find valuable and want to share across their social networks, resulting in increased visibility and website traffic.",
-      image: "images/social-media.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/social-media_crh708.png",
     },
     {
       title: "SEARCH ENGINE OPTIMIZATION",
       description:
         "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.",
-      image: "images/seo.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/seo_apnb75.png",
     },
   ];
 

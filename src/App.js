@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { HashRouter, Routes, Route, useLocation } from "react-router-dom";
 import { useLayoutEffect } from "react";
 import Layout from "./components/Layout";
 import About from "./pages/About";
@@ -17,7 +17,7 @@ const ScrollToTop = ({ children }) => {
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop>
           <Layout>
             <Routes>
@@ -28,7 +28,7 @@ function App() {
             </Routes>
           </Layout>
         </ScrollToTop>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

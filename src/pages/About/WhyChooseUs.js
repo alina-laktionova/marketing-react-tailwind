@@ -4,19 +4,22 @@ const WhyChooseUs = () => {
   const items = [
     {
       title: "Innovative and Passionate",
-      image: "images/innovative.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/innovative_os0atc.png",
       description:
         "We are a team of creative and passionate designers and developers. We are fully aware of the importance of designing for the digital age and strive to deliver the best result for our clients.",
     },
     {
       title: "Good Return on Investment",
-      image: "images/cash-flow.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534467/Marketing%20course%20project/cash-flow_eleemk.png",
       description:
         "Working with us means providing your business with great savings. All our digital marketing and web development packages are being offered at competitive prices",
     },
     {
       title: "Seamless Customer Support",
-      image: "images/customer-support.png",
+      image:
+        "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/customer-support_m0tdcm.png",
       description:
         "We are always here to help you with any questions you may have. We are always here to help you with any questions you may have. We are always here to help you with any questions you may have.",
     },

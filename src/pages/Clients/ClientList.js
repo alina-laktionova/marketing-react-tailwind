@@ -5,21 +5,21 @@ const ClientList = () => {
   const clientsData = [
     {
       name: "Twitter",
-      logo: "images/twitter.png",
+      logo: "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/twitter_mmsrww.png",
       url: "https://twitter.com/",
       description:
         "Twitter is a social networking service that enables users to send and read short 140-character messages called “tweets”.",
     },
     {
       name: "Spotify",
-      logo: "images/spotify.png",
+      logo: "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534466/Marketing%20course%20project/spotify_udvlnd.png",
       url: "https://open.spotify.com/",
       description:
         "Spotify is a music streaming service that offers a wide range of music genres. It was created by Swedish computer programmer and programmer Johan Liljegren in 2007.",
     },
     {
       name: "Instagram",
-      logo: "images/instagram.png",
+      logo: "https://res.cloudinary.com/dalio9zkg/image/upload/v1676534465/Marketing%20course%20project/instagram_d0stkk.png",
       url: "https://www.instagram.com/",
       description:
         "Instagram is a photo-sharing, video-sharing and communication service that is owned and operated by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger, and launched in October 2010.",
